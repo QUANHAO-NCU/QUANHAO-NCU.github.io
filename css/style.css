@@ -536,7 +536,6 @@ body {
 }
 .article-header {
   padding: 20px 20px 0;
-  background: url("images/bg1.jpg") repeat;
 }
 .article-title {
   text-decoration: none;
@@ -548,7 +547,6 @@ body {
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
   transition: color 0.2s;
-  background: url("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3634740417,269750494&fm=26&gp=0.jpg") repeat;
 }
 a.article-title:hover {
   color: #258fb8;
